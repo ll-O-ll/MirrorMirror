@@ -8,7 +8,7 @@ You can find the [documentation here](https://khassel.gitlab.io/magicmirror/).
 
 Before anything, please install [Docker](https://docs.docker.com/get-docker/).
 If running on Windows 10 please install [Windows Subsystem for Linux](https://docs.docker.com/get-docker/).
-If you're a mac user, you should be fine. If issues arise, please issue them on the Github repository [here](https://github.com/ll-O-ll/MatrixMirrors/issues)
+If you're a mac user, you should be fine. If issues arise, please issue them on the Github repository [here](https://github.com/ll-O-ll/MirrorMirror/issues)
 
 Steps:
 
