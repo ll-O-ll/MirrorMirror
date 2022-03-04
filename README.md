@@ -7,7 +7,7 @@ You can find the [documentation here](https://khassel.gitlab.io/magicmirror/).
 # Quick Instructions to get this running in server mode
 
 Before anything, please install [Docker](https://docs.docker.com/get-docker/).
-If running on Windows 10 please install [Windows Subsystem for Linux](https://docs.docker.com/get-docker/).
+If running on Windows 10 please install [Windows Subsystem 2 for Linux](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/).
 If you're a mac user, you should be fine. If issues arise, please issue them on the Github repository [here](https://github.com/ll-O-ll/MirrorMirror/issues)
 
 Steps:
