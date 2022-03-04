@@ -14,16 +14,22 @@ Steps:
 
 ☝️ Navigate to the `~/magicmirror/run` directory
 
-`cd ./magicmirror/run`
+```shell 
+cd ./magicmirror/run
+```
 
 ✌️ Create a file called `docker-compose.yml` in that directory and copy the contents of the `serveronly.yml` into that file
 
 
-`cp serveronly.yml docker-compose.yml`
+```shell
+cp serveronly.yml docker-compose.yml
+```
 
 👌 Execute!
 
-`docker-compose up -d`
+```shell
+docker-compose up -d
+```
 
 To view the server open up a web browser and navigate to http://localhost:8080
 
@@ -31,12 +37,18 @@ To view the server open up a web browser and navigate to http://localhost:8080
 
 To view logs
 
-`docker logs mm`
+```shell
+docker logs mm
+```
 
 To view all docker containers
 
-`docker ps -a`
+```shell
+docker ps -a
+```
 
 To remove the MagicMirror container:
 
-`docker-compose down`
+```shell
+docker-compose down
+```
