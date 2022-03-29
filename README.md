@@ -18,14 +18,7 @@ Steps:
 cd ./magicmirror/run
 ```
 
-✌️ Create a file called `docker-compose.yml` in that directory and copy the contents of the `serveronly.yml` into that file
-
-
-```shell
-cp serveronly.yml docker-compose.yml
-```
-
-👌 Execute!
+✌️ Execute! 
 
 ```shell
 docker-compose up -d
