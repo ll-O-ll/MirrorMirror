@@ -1,4 +1,4 @@
 *.log
-mounts/
+# mounts/
 # run/docker-compose.yml
 Gemfile*
